@@ -1,0 +1,6 @@
+apiVersion:
+kind:
+metadata:
+  name: test-config
+data:
+  message: "this is my App Ankrish"
