@@ -1,5 +1,5 @@
-apiVersion:
-kind:
+apiVersion: v1
+kind: Configmap
 metadata:
   name: test-config
 data:
